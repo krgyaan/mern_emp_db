@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Gyan",
+    "email": "gyan@gmail.com",
+    "mobile": "2783456789",
+    "designation": "Software Engineer",
+    "gender": "Male",
+    "course": "MCA",
+    "img": "https://example.com/demo.jpg"
+  }
+]
